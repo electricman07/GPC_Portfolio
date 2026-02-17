@@ -16,6 +16,7 @@ nav {
   align-items: center;
   height: 70px;
   width: 100vw;
+  background-color: lightblue;
 }
 
 /* logo */
@@ -31,7 +32,7 @@ nav {
   width: 50px;
 }
 
-/* navigation */
+/* navlinks */
 .main-navlinks {
   display: flex;
   width: 70%;
