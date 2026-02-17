@@ -9,6 +9,14 @@ body {
   box-sizing: border-box;
 }
 
+/* NAVIGATION */
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 70px;
+}
+
 .main-header {
   color: blue;
 }
