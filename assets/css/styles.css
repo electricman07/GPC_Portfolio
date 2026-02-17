@@ -15,7 +15,23 @@ nav {
   justify-content: space-between;
   align-items: center;
   height: 70px;
+  width: 100vw;
 }
+
+/* logo */
+
+.logo {
+  display: flex;
+  width: 40%;
+  align-items: center;
+}
+
+.logo img {
+  height: 50px;
+  width: 50px;
+}
+
+/* navigation */
 
 .main-header {
   color: blue;
